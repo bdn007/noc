@@ -176,7 +176,7 @@ export default defineConfig({
 The logo works but not the base, so I had to comment it out using `//`
 
 
-### Step  - GitHub Actions
+### Step 9 - GitHub Actions
 
 Create `.github/workflows/deploy.yml`
 
@@ -186,6 +186,9 @@ Make sure the `base` option in your VitePress is properly configured.
 My `base` failed in step 8. What shall I do?
 :::
 
+### Step 10 - Create GitHub repo and then push.
+
+`Error: Get Pages site failed. Please verify that the repository has Pages enabled and configured to build using GitHub Actions, or consider exploring the `enablement` parameter for this action.`
 
 ---
 it seems there are a few layouts  
