@@ -150,7 +150,7 @@ npm run docs:build
 ```
 
 2. Once built, preview it locally by running:
-```
+```sh
 npm run docs:preview
 ```
 
