@@ -202,9 +202,13 @@ New error message: `vitepress` package is not listed in your `package.json`. To 
 npm install -D vitepress
 ```
 
-GitHub Actions complete, the site went live at `https://bdn007.github.io/noc/`. However, the format looked wrong. So I reinstated `base` in config file. It looks good now.
+GitHub Actions complete, the site went live at `https://bdn007.github.io/noc/`. However, the format looked wrong. So I reinstated `base` in config file. It looks good, but only Home page.
+
+I realized that I need to rebuild it. And ...
 
 ### Success!
+
+Finally, to refresh Moilla Firefox, press `Control - Shift -R`
 
 ---
 it seems there are a few layouts  
