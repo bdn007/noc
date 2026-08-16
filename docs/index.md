@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "bdn007"
   text: "Sailing to the sunset"
-  tagline: My great project tagline
+  tagline: Adjusting to Life in Retirement
   actions:
     - theme: brand
       text: Markdown Examples

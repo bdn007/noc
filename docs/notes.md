@@ -59,11 +59,19 @@ Note or Info, which one is better?
 I later run `npm run docs:dev` instead of `pnpm run docs:dev`
 :::
 
-### Step 3 - Install Vue as Peer Dependency
+### Step 3 - Install VitePress and Vue as Peer Dependency
 
 ```bash
 npm install vue
+npm install -D vitepress
 ```
+
+Learning from mistake made in step 10, it probably best to install `vitepress` at this stage.
+
+::: tip
+npm install -D vitepress
+:::
+
 Verify Vue Installation: success!
 
 ```TypeScript{7-8}
@@ -75,6 +83,9 @@ Verify Vue Installation: success!
   },
   "dependencies": {
     "vue": "^3.5.41"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4"
   }
 }
 ```
