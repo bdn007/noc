@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "bdn007",
   description: "Sailing to the sunset",
-  // base: '/noc/',
+  base: '/noc/',
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
