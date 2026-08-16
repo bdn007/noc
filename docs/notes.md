@@ -188,7 +188,23 @@ My `base` failed in step 8. What shall I do?
 
 ### Step 10 - Create GitHub repo and then push.
 
-`Error: Get Pages site failed. Please verify that the repository has Pages enabled and configured to build using GitHub Actions, or consider exploring the `enablement` parameter for this action.`
+After creating a GitHub repo and then push, GitHub Action failed.
+
+::: warning
+Error: Get Pages site failed. Please verify that the repository has Pages enabled and configured to build using GitHub Actions, or consider exploring the `enablement` parameter for this action.`
+:::
+
+Silly me, I change `Settings` of `Pages`, selecting `GitHub Actions` for `Build and Deployment`
+
+New error message: `vitepress` package is not listed in your `package.json`. To fix this, I ran:
+
+```sh
+npm install -D vitepress
+```
+
+GitHub Actions complete, the site went live at `https://bdn007.github.io/noc/`. However, the format looked wrong. So I reinstated `base` in config file. It looks good now.
+
+### Success!
 
 ---
 it seems there are a few layouts  
