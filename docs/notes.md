@@ -1,10 +1,13 @@
 ---
+layout: doc
 outline: deep
 ---
 
+# How to use VitePress for non tech people
+
 Today, 16 Aug 2026, I try VitePress again. This time I note down the steps, for my own reference.
 
-### Step 1 - Install Vitepress into a project
+### Step 1 - Install VitePress into a project
 
 ```bash
 npm add -D vitepress@next
@@ -63,7 +66,6 @@ I later run `npm run docs:dev` instead of `pnpm run docs:dev`
 
 ```bash
 npm install vue
-npm install -D vitepress
 ```
 
 Learning from mistake made in step 10, it probably best to install `vitepress` at this stage.
@@ -72,9 +74,9 @@ Learning from mistake made in step 10, it probably best to install `vitepress` a
 npm install -D vitepress
 :::
 
-Verify Vue Installation: success!
+Verify Vue Installation: success! Both Vue and VitePress are listed as dependencies.
 
-```TypeScript{7-8}
+```TypeScript{6-12}
 {
   "scripts": {
     "docs:dev": "vitepress dev docs",

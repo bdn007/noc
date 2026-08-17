@@ -6,10 +6,12 @@ hero:
   name: "bdn007"
   text: "Sailing to the sunset"
   tagline: Adjusting to Life in Retirement
+  image:
+    src: /logo.svg
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: VitePress for beginers
+      link: /notes
     - theme: alt
       text: API Examples
       link: /api-examples
