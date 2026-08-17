@@ -7,7 +7,7 @@ hero:
   text: "Sailing to the sunset"
   tagline: Adjusting to Life in Retirement
   image:
-    src: /logo.svg
+    src: /retire.png
   actions:
     - theme: brand
       text: VitePress for beginers
