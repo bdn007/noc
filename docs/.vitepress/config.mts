@@ -24,7 +24,8 @@ export default defineConfig({
         items: [
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' },
-          { text: 'Notes', link: '/notes' }
+          { text: 'Notes', link: '/notes' },
+          { text: 'Why', link: '/why-bdn007' }
         ]
       }
     ],
