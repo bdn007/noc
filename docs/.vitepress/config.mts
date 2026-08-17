@@ -11,8 +11,8 @@ export default defineConfig({
     //logo: '/logo.svg',
     logo: {
       light: '/logo-light.svg',
-      dark: '/logo-dark.svg',
-    }
+      dark: '/logo-dark.svg'
+    },
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Notes', link: '/notes' }
