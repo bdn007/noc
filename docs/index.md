@@ -10,8 +10,8 @@ hero:
     src: /retire.png
   actions:
     - theme: brand
-      text: VitePress for beginers
-      link: /notes
+      text: Getting Started
+      link: /getting_started
     - theme: alt
       text: API Examples
       link: /api-examples

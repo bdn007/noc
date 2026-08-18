@@ -5,6 +5,9 @@ export default defineConfig({
   title: "bdn007",
   description: "Sailing to the sunset",
   base: '/noc/',
+  head: [['link', { rel: 'icon', type: 'image/svg+xml', href: '/noc/logo-light.svg' }]
+
+        ],
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -15,7 +18,7 @@ export default defineConfig({
     },
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Notes', link: '/notes' }
+      { text: 'Getting Started', link: '/gettings-started' }
     ],
 
     sidebar: [
@@ -24,7 +27,7 @@ export default defineConfig({
         items: [
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' },
-          { text: 'Notes', link: '/notes' },
+          { text: 'Getting Started', link: '/getting_started' },
           { text: 'Why', link: '/why-bdn007' }
         ]
       }

@@ -3,7 +3,7 @@ layout: doc
 outline: deep
 ---
 
-# How to use VitePress for non tech people
+# Getting Started
 
 Today, 16 Aug 2026, I try VitePress again. This time I note down the steps, for my own reference.
 
