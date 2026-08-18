@@ -13,7 +13,6 @@ onMounted(() => {
     el: '#waline',
     serverURL: 'https://bdn007-6fqwhqb24-bdn007.vercel.app/',
     lang: 'en',
-    comment: true,
   })
 })
 </script>>
