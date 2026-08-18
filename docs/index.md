@@ -13,8 +13,8 @@ hero:
       text: Getting Started
       link: /getting_started
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Getting Started cont.
+      link: /getting_started_cont
 
 features:
   - icon: ⛵️

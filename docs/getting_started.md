@@ -98,7 +98,7 @@ Verify the config file `.vitepress/config.mts`. Note: the file extension is `.mt
 
 Verify `package.json`, the `scripts' are injected properly.
 
-```TypeScript{2-5}
+```TypeScript{2-5,7-8}
 {
   "scripts": {
     "docs:dev": "vitepress dev docs",

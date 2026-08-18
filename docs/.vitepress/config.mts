@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "bdn007",
-  description: "Sailing to the sunset",
+  description: "Sailing into the sunset",
   base: '/noc/',
   head: [['link', { rel: 'icon', type: 'image/svg+xml', href: '/noc/logo-light.svg' }]
 
@@ -16,18 +16,19 @@ export default defineConfig({
       light: '/logo-light.svg',
       dark: '/logo-dark.svg'
     },
-    nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Getting Started', link: '/gettings-started' }
-    ],
+    // nav: [
+    //  { text: 'Home', link: '/' },
+    //  { text: 'Getting Started', link: '/getting_started' }
+    // ],
 
     sidebar: [
       {
         text: 'Examples',
         items: [
+          { text: 'Getting Started', link: '/getting_started' },
+          { text: 'Getting Started continued', link: '/getting_started_cont' },
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' },
-          { text: 'Getting Started', link: '/getting_started' },
           { text: 'Why', link: '/why-bdn007' }
         ]
       }
