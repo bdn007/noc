@@ -29,4 +29,4 @@ Note that footer will not be displayed when the SideBar is visible.
 
 ### Step 12 - Add Waline
 
-<WalineComment />
+<Waline />

@@ -1,18 +1,17 @@
 <template>
-    <div id="waline"></div>
+  <div id="waline"></div>
 </template>
 
-<script setup>
-
+<script setup lang="ts">
 import { onMounted } from 'vue'
-import { init } from '@waline/client'
 import '@waline/client/style'
+import { init } from '@waline/client'
 
 onMounted(() => {
   init({
     el: '#waline',
-    serverURL: 'https://bdn007-6fqwhqb24-bdn007.vercel.app/',
+    serverURL: 'https://moc-three-lovat.vercel.app',
     lang: 'en',
   })
 })
-</script>>
+</script>
