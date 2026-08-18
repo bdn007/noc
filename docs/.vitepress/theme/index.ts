@@ -2,6 +2,9 @@
 import { h } from 'vue'
 import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
+import WalineComment from './components/WalineComment.vue'
+
+
 import './style.css'
 
 export default {
@@ -12,6 +15,6 @@ export default {
     })
   },
   enhanceApp({ app, router, siteData }) {
-    // ...
+    app.component('WalineComment', WalineComment)
   }
 } satisfies Theme

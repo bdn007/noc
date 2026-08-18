@@ -19,3 +19,14 @@ head[
 ```
 
 ### Step 11 - Add a footer
+
+It's quite straight forward to add a footer. However, it only works on the Home page as all other pages have SideBar.
+
+::: warning
+Note that footer will not be displayed when the SideBar is visible.
+:::
+
+
+### Step 12 - Add Waline
+
+<WalineComment />
