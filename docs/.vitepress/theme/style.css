@@ -70,6 +70,21 @@
   --vp-c-danger-soft: var(--vp-c-red-soft);
 }
 
+.dark #waline {
+  --waline-bg-color: var(--vp-c-bg);
+  --waline-bg-color-light: var(--vp-c-bg-soft);
+  --waline-bg-color-hover: var(--vp-c-bg-mute);
+  --waline-color: var(--vp-c-text-1);
+  --waline-light-grey: var(--vp-c-text-2);
+  --waline-dark-grey: var(--vp-c-text-1);
+  --waline-border-color: var(--vp-c-divider);
+  --waline-theme-color: var(--vp-c-brand-1);
+  --waline-active-color: var(--vp-c-brand-1);
+  --waline-bq-color: var(--vp-c-divider);
+  --waline-code-bg-color: var(--vp-c-bg-soft);
+  --waline-white: var(--vp-c-bg);
+}
+
 /**
  * Component: Button
  * -------------------------------------------------------------------------- */
