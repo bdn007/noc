@@ -11,7 +11,7 @@ onMounted(() => {
   init({
     el: '#waline',
     serverURL: 'https://moc-three-lovat.vercel.app',
-    lang: 'en',
+    lang: 'en-US',
   })
 })
 </script>
