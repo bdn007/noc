@@ -77,12 +77,24 @@
   --waline-color: var(--vp-c-text-1);
   --waline-light-grey: var(--vp-c-text-2);
   --waline-dark-grey: var(--vp-c-text-1);
-  --waline-border-color: var(--vp-c-border);
+  --waline-border-color: var(--vp-c-text-2);
   --waline-theme-color: var(--vp-c-brand-1);
   --waline-active-color: var(--vp-c-brand-1);
   --waline-bq-color: var(--vp-c-divider);
   --waline-code-bg-color: var(--vp-c-bg-soft);
   --waline-white: var(--vp-c-bg);
+}
+
+.dark #waline .wl-panel {
+  border-color: var(--vp-c-text-1);
+}
+
+.dark #waline .wl-card {
+  border-bottom: 1px solid var(--vp-c-text-2);
+}
+
+.dark #waline .wl-card-item:last-child > .wl-card {
+  border-bottom: none;
 }
 
 /**
