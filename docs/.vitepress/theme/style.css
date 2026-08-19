@@ -77,7 +77,7 @@
   --waline-color: var(--vp-c-text-1);
   --waline-light-grey: var(--vp-c-text-2);
   --waline-dark-grey: var(--vp-c-text-1);
-  --waline-border-color: var(--vp-c-divider);
+  --waline-border-color: var(--vp-c-border);
   --waline-theme-color: var(--vp-c-brand-1);
   --waline-active-color: var(--vp-c-brand-1);
   --waline-bq-color: var(--vp-c-divider);
