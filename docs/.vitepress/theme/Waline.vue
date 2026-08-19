@@ -13,6 +13,16 @@ onMounted(() => {
     serverURL: 'https://moc-three-lovat.vercel.app',
     lang: 'en-US',
     dark: 'html.dark',
+
+    locale: {
+      placeholder:
+      'Share a memory, a favorite moment, a lesson learned, or your best wishes.',
+      submit: 'Share a Memory',
+      nick: 'Name (Optional)',
+      mail: 'Email (Optional)',
+      link: 'Website (Optional)',
+      optional: 'Optional'
+}
   })
 })
 </script>

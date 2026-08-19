@@ -43,7 +43,7 @@ Thank you for being part of my journey.
 :::
 
 ::: warning **Privacy note:** 
-Feel free to post anonymously if you prefer. *Nickname, email address, and website* are all optional.
+Feel free to post anonymously if you prefer. *Name, Email address, and Website* are all optional.
 :::
 
 <Waline />
