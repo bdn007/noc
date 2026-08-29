@@ -21,7 +21,7 @@ Thank you for being part of my journey.
 
 ::: warning **Privacy note:** 
 Feel free to post anonymously if you prefer.   
-*Name and Email* are all optional.
+Both *Name and Email* are all optional.
 :::
 
 <Waline />

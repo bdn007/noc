@@ -23,10 +23,11 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'My journey',
+        text: 'Signing off',
         items: [
-          { text: 'It\'s time', link: '/retire' },
+          { text: 'It\'s time!', link: '/retire' },
           { text: 'Memory Wall', link: '/memwall' },
+          { text: 'Contact', link: '/contact' },
           // { text: 'Getting Started', link: '/getting_started' },
           // { text: 'Getting Started continued', link: '/getting_started_cont' },
           // { text: 'Markdown Examples', link: '/markdown-examples' },
@@ -36,9 +37,9 @@ export default defineConfig({
       }
     ],
 
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/bdn007/noc' }
-    ],
+    // socialLinks: [
+      //{ icon: 'github', link: 'https://github.com/bdn007/noc' }
+    // ],
     footer: {
       message: 'Released under the MIT License.',
       copyright: 'Copyright © 2024-present bdn007'
