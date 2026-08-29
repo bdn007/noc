@@ -21,8 +21,6 @@ Whether you want to say hello, share a memory, or just keep in touch, please fee
 
 I'd love to hear from you.
 
-**Bao Ngo**
-
 <a class="contact-button" href="mailto:bdn007@yahoo.com">✉️ Email Me</a>
 
 </div>
