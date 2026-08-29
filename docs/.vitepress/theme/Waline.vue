@@ -18,6 +18,8 @@ onMounted(() => {
     locale: {
       placeholder:
       'Share a memory, a favorite moment, or your best wishes.',
+      comment: 'Memories',
+      sofa: 'No memories yet',
       submit: 'Share a Memory',
       nick: 'Name (Optional)',
       mail: 'Email (Optional)',

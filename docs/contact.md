@@ -1,3 +1,10 @@
+---
+layout: doc
+title: Contact
+outline: deep
+date: 2026-10-01
+---
+
 # Contact
 
 ### Keep in Touch

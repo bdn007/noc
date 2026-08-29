@@ -11,7 +11,7 @@ date: 2026-10-01
 
 Thank you for visiting my Memory Wall.
 
-As I prepare to begin the next chapter of life, I would be grateful if you could share a memory, a lesson, a story, or a few words of farewell. The friendships, experiences, and moments we've shared over the years have meant more to me than I can express.
+As I prepare to begin the next chapter of life, I would be grateful if you could share a memory, a story, or a few words of farewell. The friendships, experiences, and moments we've shared over the years have meant more to me than I can express.
 
 Your message will become part of a collection of memories that I will cherish for years to come.
 
