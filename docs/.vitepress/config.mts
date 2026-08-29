@@ -23,7 +23,7 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'My journey',
         items: [
           { text: 'It\'s time', link: '/retire' },
           { text: 'Memory Wall', link: '/memwall' },

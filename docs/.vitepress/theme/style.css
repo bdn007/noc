@@ -97,6 +97,22 @@
   border-bottom: none;
 }
 
+/* Increase sidebar text size */
+.VPSidebar,
+.VPSidebarItem,
+.VPSidebarItem .text,
+.VPSidebarItem .link {
+  font-size: 16px;
+}
+
+/* Increase privacy note warning text size */
+.warning.custom-block,
+.warning.custom-block p,
+.warning.custom-block .custom-block-title {
+  font-size: 1.08rem;
+  line-height: 1.6;
+}
+
 /**
  * Component: Button
  * -------------------------------------------------------------------------- */
