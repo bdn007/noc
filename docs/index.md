@@ -10,17 +10,17 @@ hero:
     src: /retire.png
   actions:
     - theme: brand
-      text: Getting Started
-      link: /getting_started
+      text: It's time
+      link: /retire
     - theme: alt
-      text: Getting Started cont.
-      link: /getting_started_cont
+      text: Memory Wall
+      link: /memwall
 
-features:
+// features:
   - icon: ⛵️
     title: Embarking on a new journey
     details: It's totally new to me, I have never retired before!
-    link: /why-bdn007
+    link: /retire
     linkText: Learn more
   - icon: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v4"/><path d="m4.93 10.93 1.41 1.41"/><path d="M20 18H2"/><path d="M22 22H2"/><path d="m19.07 10.93-1.41 1.41"/><path d="M15.54 8.46a5 5 0 1 0-7.08 0"/></svg>'
     title: Qatar Chapter & Legacy

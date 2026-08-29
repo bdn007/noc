@@ -25,11 +25,13 @@ export default defineConfig({
       {
         text: 'Examples',
         items: [
-          { text: 'Getting Started', link: '/getting_started' },
-          { text: 'Getting Started continued', link: '/getting_started_cont' },
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' },
-          { text: 'Why', link: '/why-bdn007' }
+          { text: 'It\'s time', link: '/retire' },
+          { text: 'Memory Wall', link: '/memwall' },
+          // { text: 'Getting Started', link: '/getting_started' },
+          // { text: 'Getting Started continued', link: '/getting_started_cont' },
+          // { text: 'Markdown Examples', link: '/markdown-examples' },
+          // { text: 'Runtime API Examples', link: '/api-examples' },
+          // { text: 'Why', link: '/why-bdn007' },
         ]
       }
     ],

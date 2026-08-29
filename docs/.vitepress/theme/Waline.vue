@@ -20,7 +20,7 @@ onMounted(() => {
       submit: 'Share a Memory',
       nick: 'Name (Optional)',
       mail: 'Email (Optional)',
-      link: 'Website (Optional)',
+      link: 'Company (Optional)',
       optional: 'Optional'
 }
   })
