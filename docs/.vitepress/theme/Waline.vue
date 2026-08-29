@@ -13,6 +13,7 @@ onMounted(() => {
     serverURL: 'https://moc-three-lovat.vercel.app',
     lang: 'en-US',
     dark: 'html.dark',
+    meta: ['nick', 'mail'],
 
     locale: {
       placeholder:
@@ -20,7 +21,6 @@ onMounted(() => {
       submit: 'Share a Memory',
       nick: 'Name (Optional)',
       mail: 'Email (Optional)',
-      link: 'Company (Optional)',
       optional: 'Optional'
 }
   })

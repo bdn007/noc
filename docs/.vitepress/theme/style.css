@@ -112,7 +112,12 @@
   font-size: 1.08rem;
   line-height: 1.6;
 }
-
+#waline .wl-text-number,
+#waline .wl-text,
+#waline input,
+#waline textarea {
+  font-size: 16px;
+}
 /**
  * Component: Button
  * -------------------------------------------------------------------------- */
