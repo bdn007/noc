@@ -97,7 +97,7 @@
   border-bottom: none;
 }
 
-/* Increase sidebar text size */
+/* Keep sidebar item size consistent across active/inactive states */
 .VPSidebar,
 .VPSidebarItem,
 .VPSidebarItem .text,
