@@ -15,6 +15,9 @@ hero:
     - theme: alt
       text: Memory Wall
       link: /memwall
+    - theme: alt
+      text: Contact
+      link: /contact 
 
 // features:
   - icon: ⛵️

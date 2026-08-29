@@ -6,7 +6,6 @@ export default defineConfig({
   description: "Sailing into the sunset",
   base: '/noc/',
   head: [['link', { rel: 'icon', type: 'image/svg+xml', href: '/noc/logo-light.svg' }]
-
         ],
 
   themeConfig: {

@@ -23,8 +23,6 @@ I'd love to hear from you.
 
 **Bao Ngo**
 
-📧 **Email:** [bdn007@yahoo.com](mailto:bdn007@yahoo.com)
-
 <a class="contact-button" href="mailto:bdn007@yahoo.com">✉️ Email Me</a>
 
 </div>
