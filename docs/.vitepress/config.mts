@@ -15,10 +15,10 @@ export default defineConfig({
       light: '/logo-light.svg',
       dark: '/logo-dark.svg'
     },
-    // nav: [
-    //  { text: 'Home', link: '/' },
-    //  { text: 'Getting Started', link: '/getting_started' }
-    // ],
+    nav: [
+      { text: 'Home', link: '/' },
+      { text: 'Memory Wall', link: '/memwall' }
+    ],
 
     sidebar: [
       {
@@ -49,8 +49,8 @@ export default defineConfig({
       //{ icon: 'github', link: 'https://github.com/bdn007/noc' }
     // ],
     footer: {
-      message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2024-present bdn007'
+      message: 'Written with coffee, powered by curiosity, and running on zero set alarms.',
+      copyright: 'Copyleft 🄯 2026 bdn007 • All rights reserved. All meetings canceled.'
     }
   }
 })
