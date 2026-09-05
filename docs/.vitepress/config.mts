@@ -22,16 +22,25 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Signing off',
+          text: 'Signing off',
+          collapsed: false,
         items: [
           { text: 'It\'s time!', link: '/retire' },
           { text: 'Memory Wall', link: '/memwall' },
           { text: 'Contact', link: '/contact' },
+          
           // { text: 'Getting Started', link: '/getting_started' },
           // { text: 'Getting Started continued', link: '/getting_started_cont' },
           // { text: 'Markdown Examples', link: '/markdown-examples' },
           // { text: 'Runtime API Examples', link: '/api-examples' },
           // { text: 'Why', link: '/why-bdn007' },
+        ]},
+      {
+        text: 'Retirement Projects',
+        collapsed: true,
+        items: [
+          { text: 'Probability for Artificial Intelligence', link: '/pai' },
+          // { text: 'Conditional Probability', link: '/concepts/conditional-probability' }
         ]
       }
     ],

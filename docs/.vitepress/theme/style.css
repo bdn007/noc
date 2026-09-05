@@ -177,3 +177,7 @@
   --vp-custom-block-tip-code-bg: var(--vp-c-brand-soft);
 }
 
+/* Indent sidebar items under groups */
+.VPSidebarItem.level-1 {
+  padding-left: 1rem; /* Adjust value to shift items further right */
+}
